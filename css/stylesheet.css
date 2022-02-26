@@ -17,32 +17,38 @@ body{
   width: 10%;
   height: 10%;
   border-radius: 50%;
-  border: 5px solid orange;
+  border: 5px solid rgb(255, 255, 255);
 }
 
 header {
   text-align: center;
-  background-color: rgb(59, 61, 56);
+  background-color: rgb(5, 73, 150);
   justify-content: center;
   color: #FCF7F8;
 }
 
 footer {
-  background-color: #343330;
+  background-color: rgb(5, 73, 150);
   text-align: center;
+  height: 10%;
 }
 #SideMenu{
-  width: 15%;
-  background-color: rgb(66, 77, 37);
-  color: black;
+  width: 12%;
+  background-color: rgb(76, 148, 241);
+  color: white;
   padding: 1rem;
 }
 .nav-menu{
   list-style-type: none;
   padding: 0%;
+  
 }
 .icons{
   width:  5rem;
   margin: 2rem;
   height: auto;
+}
+
+#menu{
+  colour:white
 }
